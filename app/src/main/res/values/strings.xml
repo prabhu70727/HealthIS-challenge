@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HealthIS-challenge</string>
+    <string name="record">Record</string>
+    <string name="text_recording">Recording</string>
+</resources>
